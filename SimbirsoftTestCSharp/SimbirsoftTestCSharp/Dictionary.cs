@@ -19,7 +19,6 @@ namespace SimbirsoftTestCSharp
         public List<string> LoadWordBook()
         {
             List<string> wordBook = new List<string>();
-
             FileStream fs = new FileStream(path, FileMode.Open);
 
             using(StreamReader streamRider = new StreamReader(fs))

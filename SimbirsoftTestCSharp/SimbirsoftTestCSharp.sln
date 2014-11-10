@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimbirsoftTestCSharp", "SimbirsoftTestCSharp\SimbirsoftTestCSharp.csproj", "{F39E285A-1C02-4986-8221-4C054724830D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSimbirsoftCSharp", "UnitTestSimbirsoftCSharp\UnitTestSimbirsoftCSharp.csproj", "{96B7AA77-0EB2-412E-8BB9-FD582569AC28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F39E285A-1C02-4986-8221-4C054724830D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F39E285A-1C02-4986-8221-4C054724830D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F39E285A-1C02-4986-8221-4C054724830D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B7AA77-0EB2-412E-8BB9-FD582569AC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B7AA77-0EB2-412E-8BB9-FD582569AC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B7AA77-0EB2-412E-8BB9-FD582569AC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B7AA77-0EB2-412E-8BB9-FD582569AC28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

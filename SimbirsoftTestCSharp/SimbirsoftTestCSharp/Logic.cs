@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimbirsoftTestCSharp
 {
-    class Logic
+    public class Logic
     {
       // static enum Style {Italic_s = Html_Method.italic_s,Bold = Html_Method.bold};
         public bool findWord(List<string> list, string word)
