@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SimbirsoftTestCSharp
 {
-    class Diction
+   public class Diction
     {
         string path{set;get;}
 

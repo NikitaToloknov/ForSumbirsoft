@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace SimbirsoftTestCSharp
 {
-    class Html_Method
+   public class Html_Method
     {
         public enum Style {Italic,Bold};
 
@@ -75,7 +75,7 @@ namespace SimbirsoftTestCSharp
         }
         public string lineTag(string line)
         {
-            line.Insert(0, "<br>");
+            line = "<br>" + line;
             line += "</br>";
             return line;
         }
